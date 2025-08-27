@@ -28,7 +28,9 @@ El siguiente comando nos ayuda a visualizar
 
 ![alt text](image.png)
 
-m
+El siguiente comando nos ayuda a ver el log del historial de cambio del rpositorio
+> git log
+
 > git add (Nombre del archivo) 
 # Encabezado de nivel 1
 
