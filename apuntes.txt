@@ -1,0 +1,21 @@
+Comandos Básicos de Terminal
+-pwd = print working directory
+-ls = Lista los directorios y archivos de directorio donde esta la Terminal
+-ls -l = Lista detalles de los directorios y archivos
+-ls -a = Lista de todo tipo de directorio y archivos(Incluye ocultos)
+-ls - la = La combinacion de ambas flags
+-clear = Limpia la pantalla de la Terminal
+-cd nombre = cambiar de directorio
+-cd ../ = sube al directorio padre
+-cd ../../ = Subimos dos directorios padres
+-cd ~ = Regresamos al directorio del usuario (/User/jonmira)
+-mkdir = crea un directorio
+-touch archivo.txt = crea un archivo del tipo que le indiquemos
+-rm = eliminar archivos
+-rm -r =eliminar directorios
+-cp ruta-actual ruta-nueva = copia archivos
+-mv ruta-actual ruta-nueva = mueve archivos
+
+ctrl + j = abre la Terminal en el editor
+alt + shif + flecha arriba o felcha abajo
+alt + shit + a
